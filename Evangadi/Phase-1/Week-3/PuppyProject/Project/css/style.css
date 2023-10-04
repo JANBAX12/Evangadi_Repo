@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.heder-foter {
+    background-color: #11751d;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+
+.banner-puppy {
+    width: 100%;
+    display: flex;
+    margin-bottom:84px;
+}
+
+.banner-puppy img {
+    width: 100%;
+}
+
+.fixed-container {
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.puppy-section1 {
+    margin-bottom: 20px;
+}
+
+.missing-puppy img {
+    max-width: 100%;
+}
+.puppy-one{
+    display: flex;
+}
+
+.missing-puppy {
+    background-color: #f04d65;
+    color: white;
+    font-size: 45;
+    padding: 100px 50px;
+    text-align: center;
+}
+
+.second-section {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-wp {
+    margin-top: 75px;
+    padding-top: 100px;
+    padding-bottom: 125px;
+    font-size:30px;
+}

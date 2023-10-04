@@ -1,0 +1,12 @@
+.body{
+    font: 100;
+    font-size: large;
+    font-variant-caps: petite-caps;
+}
+.h1{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p{
+    font-size: 100;
+}

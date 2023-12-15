@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+img{
+    max-width: 100%;
+}
+
+@media (max-width:480px ) {
+    *{
+        padding: 0%;
+        margin: 0%;
+    }
+    .main_header{
+        font-size: 10px;
+        color: white;
+        padding: 0%;
+    }
+    .banner-puppy {
+        width: 100%;
+        display: flex;
+        margin-bottom:84px;
+    }
+    .banner-puppy img {
+        width: 100%;
+    }
+    .header_footer{
+        background-color: rgba(2, 64, 85, 0.807);
+        font-size: 10px;
+        color: white;
+    }
+    .main_footer{
+        margin-top: 40px;
+        padding-top: 50px;
+        padding-bottom: 60px;
+        font-size:25px;
+    }
+    }
+    .puppy1_wapper{
+        margin: 20px;
+        padding: 20px;
+}
